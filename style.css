@@ -15,3 +15,10 @@ section{ display:flex;}
 .link-button{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color: rgb(141, 43, 226); background-color: rgb(243, 165, 233); padding: 10px 30px; text-decoration: dotted; border-radius: 10px; background-image: linear-gradient(violet, rgb(241, 143, 160)); font-weight: 700;}
 .top-banner{background-image: url(images/top-banner.png);
 background-repeat: no-repeat;}
+.dream{font-family: Verdana, Geneva, Tahoma, sans-serif;background-image:linear-gradient(orange,rgb(255, 255, 13)); color: rgb(31, 230, 213); border-radius: 10%;
+}
+.teach{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.rule{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-weight: 800; color: rgb(226, 43, 180);}
+.half-width2 img{width: 90%;padding-right: 10%;padding-top: 20%;}
+.top-banner2{background-image: url(images/dream-bg.png); background-repeat: no-repeat;
+background-position: right;}
